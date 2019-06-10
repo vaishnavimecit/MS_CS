@@ -1,0 +1,8 @@
+URL:
+https://www.researchgate.net/publication/236870876_Supporting_Virtual_Meeting_in_Distributed_Scrum_Teams
+
+Description:
+Scrum is one of the agile project management aprroach that is in trending now. It provides coordination and effective social integration. Especially, daily scrum meetings are open channel for communication. The developed 3D tool  provided a virtual world to hold meetings in a Scrum context.
+
+Recommendation:
+I partly recommend this article as there are some demerits of this approach. People participating must be co located. But the virtual meeting is for people who are not located in the same building or locality. There will be a time zone difference, language barrier, lack of trust and lack of coordination.

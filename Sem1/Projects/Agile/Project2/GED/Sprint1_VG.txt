@@ -1,0 +1,34 @@
+def US09_birth_before_marriage(all_families, all_persons):
+    unique_id = set()
+    for i in range(len(all_families)):
+        husband_id = all_families[i]['husband_id']
+        wife_id = all_families[i]['wife_id']
+        marriage_date = all_families[i]['marriage']
+
+    for x in range(len(all_persons)):
+        if (all_persons[x]['id'] == husband_id):
+            birthdate = all_persons[x]['birthdate']
+            if marriage_date is not None:
+                if birthdate > marriage_date:
+                    unique_id.add(husband_id)
+
+    if (all_persons[x]['id'] == wife_id):
+        birthdate = all_persons[x]['birthdate']
+        if marriage_date is not None:
+            if birthdate > marriage_date:
+                unique_id.add(wife_id)
+
+        print
+        " ".join("ERROR: FAMILY: US09: Violated - Birth before Marriage - For ID: " + str(x) for x in unique_id)
+
+
+def US10_birth_before_death(all_persons):
+    for i in range(len(all_persons)):
+        person_id = all_persons[i]['id']
+        birth_date = all_persons[i]['birthdate']
+        death_date = all_persons[i]['deathdate']
+
+        if death_date is not None:
+            if birth_date > death_date:
+                print
+                "ERROR: INDIVIDUAL: US10: Birth Before Death Violated - Person with id " + person_id + " died before birth"

@@ -1,0 +1,7 @@
+URL: https://www.igi-global.com/article/journal-database-management-jdm/3341
+
+Description: Is Extreme Programming just old wine in a new bottle? 
+The article says that XP is a combination of best practices of traditional development systems. SO it is just an old method combining the concepts of waterfall, chaos, v model and more. It is just based on the individual's talent, good designers and implementers.
+
+Recommendation: I do not recommend this article as Extreme programming (XP) is a different approach that follows the Agile framework. It has its own best practices viz, Planning game: Rapport between customer & developer, small releases: Release contains the most valuable business feature, metaphor: Simple explanation of the project, simple design: fewest classes and methods, testing: all tests are automated, refactoring: make the program simpler with some tweaks, pair programming: two people at one machine, collective ownership: Everyone knows something about everything, continuous integration: Integrate and test every few hours, sustainable pace: 40 hours per week, whole team: the customer is a member of the team and coding standards: Standard adopted voluntarily by the team.
+Conclusion: All these practices are not found in the traditional approaches.

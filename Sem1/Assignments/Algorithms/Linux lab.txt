@@ -1,0 +1,27 @@
+Linux Lab Login:
+
+ssh vgopalak@gits.srcit.stevens-tech.edu
+
+New pwd: Stevens199661
+----------------------------------------------------
+Old pwd: [Q'rF|kDPn10444180
+
+Change pwd: vgopalak@gits:~$ /usr/bin/passwd
+----------------------------------------------------
+Linux commands:
+Change directory -> cd
+List -> ls
+Debug: g++ hello.cpp
+Compile: g++ -o hello hello.cpp
+Run: hello.exe
+
+Cygwin:
+make
+make hw1
+./hw1.exe 3 5
+
+Linux lab:
+cd CS590_HW1
+ls
+make
+./hw1 2 3

@@ -1,0 +1,15 @@
+1. URL:
+
+https://ieeexplore.ieee.org/abstract/document/8078177
+
+2. Description:
+
+Introduction: The scope of an agile project is defined by the requirements in the form of user stories. Overall definition of scope is what the project is supposed to accomplish. In other words, scope is the process required to ensure that the project includes all the work required to complete the project successfully. PDRI is a tool that identifies and describes each element in the scope. It is used during front end planning. 
+
+Scope: The article describes about A-SPSRI (Agile Software Project Scope Rating Index) which is used to check the quality and completeness of scope definition of an iteration. Method first identifies the definition elements and divide them into five levels of planning and validated to prioritize. 
+
+Conclusion: The research claims that time and number of problems identified are with less variations when A-SPSRI is used. The variations with and without A-SPSRI can be tested. 
+
+3. Recommendation:
+
+Yes, I would recommend this method as the existing tools provide support for visualizing, verifying, monitoring and controlling changes. There exists no tool to quantify the completeness and quality of scope definition. Thus, there is a strong need for for this method. The method can be enhanced more in future to eliminate the little variations.
